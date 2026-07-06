@@ -1,5 +1,7 @@
 # Warm Paper Design System (WPDS) — Agent Guide
 
+> 🌐 语言 / Language: [中文](#) · [English](README.en.md)
+
 一份**与具体助手无关**的设计系统规范，任何 AI 编码 agent（Claude、GPT、Copilot、WorkBuddy 等）都可以读取并据此产出视觉一致的 UI。本目录包含规范本体；当 agent 为该产品的界面做构建、样式化或审查时，应加载并遵循它。
 
 本指南也可直接作为 **system prompt / 设计约束** 粘贴给任意 agent 使用。
