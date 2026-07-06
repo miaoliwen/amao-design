@@ -119,6 +119,7 @@ Write the `warm-*` / `coral-*` palettes, warm shadows, `darkMode: 'class'`, spri
 
 ## Related files
 
+- [`index.html`](index.html) — Self-contained WPDS demo page (open in any browser; includes light/dark toggle)
 - [`references/wpds-spec.md`](references/wpds-spec.md) — Full design spec (authoritative reference)
 - `SKILL.md` — (Optional) trigger metadata per platform; ignore or adapt as needed
 - [`README.md`](README.md) — Chinese version of this guide

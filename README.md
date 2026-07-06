@@ -120,5 +120,6 @@ wpds/
 
 ## 相关文件
 
+- [`index.html`](index.html) — 自包含的 WPDS 示范页（可直接浏览器打开，含深浅色切换）
 - [`references/wpds-spec.md`](references/wpds-spec.md) — 完整设计规范（权威参考）
 - `SKILL.md` —（可选）各平台的触发元数据，可忽略或按平台适配
